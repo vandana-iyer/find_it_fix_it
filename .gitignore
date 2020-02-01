@@ -1,0 +1,8 @@
+**/.ipynb_checkpoints/
+.ipynb_checkpoints/
+.idea/
+logs/
+fifi_crawler.py
+fifi_cleaned.csv
+images/
+**/images/
